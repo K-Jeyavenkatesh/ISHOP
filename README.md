@@ -1,2 +1,2 @@
 # ISHOP
-Developed a Standalone application on topic E-Commerce
+Developed a Standalone application on topic E-Commerce.
